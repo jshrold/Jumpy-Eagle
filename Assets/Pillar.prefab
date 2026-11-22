@@ -451,5 +451,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   availableSprites:
   - {fileID: -8576629750303251106, guid: dea9c320e809fa949bf6e06b465c838a, type: 3}
-  - {fileID: 3465947583896819724, guid: 74ea7f0800d319e49a2a8c5640b13058, type: 3}
   - {fileID: -2356460131578669998, guid: 8eb29e7d9c449d24bbd22d4da78fe7b0, type: 3}

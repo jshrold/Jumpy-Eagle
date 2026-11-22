@@ -1,32 +1,54 @@
-using System.IO.Pipes;
+
 using UnityEngine;
 
-public class PillarSpawnScript : MonoBehaviour
+public class PillarSpawn : MonoBehaviour
 {
     public GameObject pillar;
-    public float spawnRate = 2;
-    private float timer = 0;
-    public float heightOffset = 10;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public float spawnRate = 2f;
+    private float timer = 0f;
+    public float heightOffset = 10f;
+    public Bird_Script birdIsAlive;
+
+    private bool firstSpawn = true;
+
+
+   void Start()
     {
-        spawnPipe();
+       
+            birdIsAlive = FindAnyObjectByType<Bird_Script>();
+
+            if (birdIsAlive == null)
+            {
+                Debug.LogError("Cannot find Bird_Script in the scene!");
+            
+        }
     }
 
-    // Update is called once per frame
     void Update()
     {
-        if (timer < spawnRate)
+        // Wait until the player starts the game
+        if (!birdIsAlive.gameStarted)
+            return;
 
-        {
-            timer = timer + Time.deltaTime;
-        }
-        else
+        // Stop spawning when the bird dies
+        if (!birdIsAlive.birdIsAlive)
+            return;
+
+        PillarSpawnMain();
+    }
+
+    void PillarSpawnMain()
+    {
+        float currentSpawnRate = firstSpawn ? 0.5f : spawnRate;
+
+        timer += Time.deltaTime;
+
+        if (timer >= currentSpawnRate)
         {
             spawnPipe();
-            timer = 0;
+            timer = 0f;
+            firstSpawn = false;
         }
-
     }
 
     void spawnPipe()
@@ -34,6 +56,14 @@ public class PillarSpawnScript : MonoBehaviour
         float lowestPoint = transform.position.y - heightOffset;
         float highestPoint = transform.position.y + heightOffset;
 
-        Instantiate(pillar, new Vector3(transform.position.x, Random.Range(lowestPoint, highestPoint), 0), transform.rotation);
+        Instantiate(
+            pillar,
+            new Vector3(
+                transform.position.x,
+                Random.Range(lowestPoint, highestPoint),
+                0
+            ),
+            transform.rotation
+        );
     }
 }

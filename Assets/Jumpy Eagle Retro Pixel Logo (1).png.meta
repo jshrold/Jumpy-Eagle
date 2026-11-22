@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 48d5286606efd914c926bf4530db8101
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4239561529777254389
+    second: Jumpy Eagle Retro Pixel Logo (1)_0
+  - first:
+      213: -5404034244911229359
+    second: Jumpy Eagle Retro Pixel Logo (1)_1
+  - first:
+      213: -1663680884533255448
+    second: Jumpy Eagle Retro Pixel Logo (1)_2
+  - first:
+      213: 6272701244918469651
+    second: Jumpy Eagle Retro Pixel Logo (1)_3
+  - first:
+      213: -8660809723390874270
+    second: Jumpy Eagle Retro Pixel Logo (1)_4
+  - first:
+      213: -635214788274662280
+    second: Jumpy Eagle Retro Pixel Logo (1)_5
+  - first:
+      213: 4615576533042825198
+    second: Jumpy Eagle Retro Pixel Logo (1)_6
+  - first:
+      213: -3881328020108102259
+    second: Jumpy Eagle Retro Pixel Logo (1)_7
+  - first:
+      213: -3721076544110541958
+    second: Jumpy Eagle Retro Pixel Logo (1)_8
+  - first:
+      213: -1897134844720162585
+    second: Jumpy Eagle Retro Pixel Logo (1)_9
+  - first:
+      213: 6876264714323032079
+    second: Jumpy Eagle Retro Pixel Logo (1)_10
+  - first:
+      213: -2558704752975580705
+    second: Jumpy Eagle Retro Pixel Logo (1)_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jumpy Eagle Retro Pixel Logo (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1764
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffe8c9cfb2f5da30800000000000000
+      internalID: 4239561529777254389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpy Eagle Retro Pixel Logo (1)_1
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 11
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156150e6c730105b0800000000000000
+      internalID: -5404034244911229359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpy Eagle Retro Pixel Logo (1)_2
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 13
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2a9c1dc0b69e8e0800000000000000
+      internalID: -1663680884533255448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpy Eagle Retro Pixel Logo (1)_3
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 12
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314148d4c8c1d0750800000000000000
+      internalID: 6272701244918469651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpy Eagle Retro Pixel Logo (1)_4
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 7
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26da90a817f9ec780800000000000000
+      internalID: -8660809723390874270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpy Eagle Retro Pixel Logo (1)_5
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 11
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87450dcf3834f27f0800000000000000
+      internalID: -635214788274662280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpy Eagle Retro Pixel Logo (1)_6
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 15
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee785a50762dd0040800000000000000
+      internalID: 4615576533042825198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpy Eagle Retro Pixel Logo (1)_7
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 27
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85bfa8dab0c22ac0800000000000000
+      internalID: -3881328020108102259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpy Eagle Retro Pixel Logo (1)_8
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 0
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73c04629941c5cc0800000000000000
+      internalID: -3721076544110541958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpy Eagle Retro Pixel Logo (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 0
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8507109e50ca5e0800000000000000
+      internalID: -1897134844720162585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpy Eagle Retro Pixel Logo (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 15
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08f6ce53566d6f50800000000000000
+      internalID: 6876264714323032079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpy Eagle Retro Pixel Logo (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 15
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd179c17597ad7cd0800000000000000
+      internalID: -2558704752975580705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jumpy Eagle Retro Pixel Logo (1)_0: 4239561529777254389
+      Jumpy Eagle Retro Pixel Logo (1)_1: -5404034244911229359
+      Jumpy Eagle Retro Pixel Logo (1)_10: 6876264714323032079
+      Jumpy Eagle Retro Pixel Logo (1)_11: -2558704752975580705
+      Jumpy Eagle Retro Pixel Logo (1)_2: -1663680884533255448
+      Jumpy Eagle Retro Pixel Logo (1)_3: 6272701244918469651
+      Jumpy Eagle Retro Pixel Logo (1)_4: -8660809723390874270
+      Jumpy Eagle Retro Pixel Logo (1)_5: -635214788274662280
+      Jumpy Eagle Retro Pixel Logo (1)_6: 4615576533042825198
+      Jumpy Eagle Retro Pixel Logo (1)_7: -3881328020108102259
+      Jumpy Eagle Retro Pixel Logo (1)_8: -3721076544110541958
+      Jumpy Eagle Retro Pixel Logo (1)_9: -1897134844720162585
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

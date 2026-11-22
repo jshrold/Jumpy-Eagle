@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\josh\\jumpy eagle\\assets\\pillarmove_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\pillarmove_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Josh\\Jumpy Eagle\\Assets\\pipemiddlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\pipemiddlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\josh\\jumpy eagle\\assets\\pillarspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\josh\\jumpy eagle\\assets\\bird_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\bird_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Josh\\Jumpy Eagle\\Assets\\pipemiddlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\pipemiddlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,22 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LogicScript.cs",
-              "DocumentMoniker": "C:\\Users\\Josh\\Jumpy Eagle\\Assets\\LogicScript.cs",
-              "RelativeDocumentMoniker": "Assets\\LogicScript.cs",
-              "ToolTip": "C:\\Users\\Josh\\Jumpy Eagle\\Assets\\LogicScript.cs",
-              "RelativeToolTip": "Assets\\LogicScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-14T00:59:05.397Z",
-              "EditorCaption": "",
-              "OwnerCaption": "%2"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -54,10 +44,9 @@
               "RelativeDocumentMoniker": "Assets\\PillarSpawn.cs",
               "ToolTip": "C:\\Users\\Josh\\Jumpy Eagle\\Assets\\PillarSpawn.cs",
               "RelativeToolTip": "Assets\\PillarSpawn.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-14T00:18:37.595Z",
-              "EditorCaption": "",
               "OwnerCaption": "%2"
             },
             {
@@ -76,16 +65,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PillarMove_Script.cs",
-              "DocumentMoniker": "C:\\Users\\Josh\\Jumpy Eagle\\Assets\\PillarMove_Script.cs",
-              "RelativeDocumentMoniker": "Assets\\PillarMove_Script.cs",
-              "ToolTip": "C:\\Users\\Josh\\Jumpy Eagle\\Assets\\PillarMove_Script.cs",
-              "RelativeToolTip": "Assets\\PillarMove_Script.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Title": "pipemiddlescript.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Jumpy Eagle\\Assets\\pipemiddlescript.cs",
+              "RelativeDocumentMoniker": "Assets\\pipemiddlescript.cs",
+              "ToolTip": "C:\\Users\\Josh\\Jumpy Eagle\\Assets\\pipemiddlescript.cs",
+              "RelativeToolTip": "Assets\\pipemiddlescript.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T02:41:48.053Z",
+              "WhenOpened": "2026-11-20T13:09:22.142Z",
               "EditorCaption": "",
               "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogicScript.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Jumpy Eagle\\Assets\\LogicScript.cs",
+              "RelativeDocumentMoniker": "Assets\\LogicScript.cs",
+              "ToolTip": "C:\\Users\\Josh\\Jumpy Eagle\\Assets\\LogicScript.cs",
+              "RelativeToolTip": "Assets\\LogicScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T00:59:05.397Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
             },
             {
               "$type": "Document",
@@ -99,6 +102,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-13T23:58:41.118Z",
               "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pipemiddlescript.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Jumpy Eagle\\Assets\\pipemiddlescript.cs",
+              "RelativeDocumentMoniker": "Assets\\pipemiddlescript.cs",
+              "ToolTip": "C:\\Users\\Josh\\Jumpy Eagle\\Assets\\pipemiddlescript.cs",
+              "RelativeToolTip": "Assets\\pipemiddlescript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T01:12:05.425Z",
+              "OwnerCaption": "%2"
             }
           ]
         }

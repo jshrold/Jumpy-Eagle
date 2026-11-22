@@ -53,6 +53,9 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.6.8f1\Editor\Data\BCLExtensions\TargetingPacks\netstandard2.1\analyzers\dotnet\roslyn4.0\cs\System.Text.Json.SourceGeneration.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\AudioScript.cs" />
+    <Compile Include="Assets\backgroundScrollScript.cs" />
+    <Compile Include="Assets\CameraShakeScript.cs" />
     <Compile Include="Assets\pipemiddlescript.cs" />
     <Compile Include="Assets\LogicScript.cs" />
     <Compile Include="Assets\randomtopscript.cs" />
@@ -60,6 +63,7 @@
     <Compile Include="Assets\PillarMove_Script.cs" />
     <Compile Include="Assets\PillarSpawn.cs" />
     <Compile Include="Assets\Bird_Script.cs" />
+    <Compile Include="Assets\FogScrollScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
